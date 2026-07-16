@@ -17,7 +17,7 @@ One project. One name. [bet](https://github.com/lyffseba/bet) stays a separate r
 ## Quick start
 
 ```bash
-git clone https://github.com/lyffseba/ai.git
+git clone https://github.com/lyffseba/ai-coding-agent.git
 cd ai
 npm install --ignore-scripts
 npm run build
@@ -74,7 +74,7 @@ See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) and [docs/PHILOSOPHY.md](docs/P
 
 ## Community
 
-- GitHub: [lyffseba/ai](https://github.com/lyffseba/ai)
+- GitHub: [lyffseba/ai](https://github.com/lyffseba/ai-coding-agent)
 - Discord: [BET community](https://discord.gg/MF6fMFURyC)
 
 ## License
