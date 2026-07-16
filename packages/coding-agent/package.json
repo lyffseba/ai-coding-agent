@@ -1,7 +1,7 @@
 {
 	"name": "@lyffseba/ai-coding-agent",
 	"version": "0.2.0",
-	"description": "ai — unified engineer-first agent CLI (pi fork) with memory, play, and telemetry",
+	"description": "ai \u2014 unified engineer-first agent CLI (pi fork) with memory, play, and telemetry",
 	"type": "module",
 	"piConfig": {
 		"name": "ai",
@@ -91,7 +91,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/lyffseba/ai.git",
+		"url": "git+https://github.com/lyffseba/ai-coding-agent.git",
 		"directory": "packages/coding-agent"
 	},
 	"engines": {

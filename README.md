@@ -2,6 +2,8 @@
 
 **Unified engineer-first agent CLI** — a [pi](https://github.com/earendil-works/pi) fork with memory, play-while-you-wait, and telemetry.
 
+> **Note:** The TypeScript agent monorepo lives at [`lyffseba/ai-coding-agent`](https://github.com/lyffseba/ai-coding-agent). The separate [`lyffseba/ai`](https://github.com/lyffseba/ai) repository is a different (Python) orchestration project.
+
 One project. One name. [bet](https://github.com/lyffseba/bet) stays a separate repo — ai spawns it when you `/play`.
 
 > First do it, then do it right, then do it better.
@@ -74,7 +76,7 @@ See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) and [docs/PHILOSOPHY.md](docs/P
 
 ## Community
 
-- GitHub: [lyffseba/ai](https://github.com/lyffseba/ai-coding-agent)
+- GitHub: [lyffseba/ai-coding-agent](https://github.com/lyffseba/ai-coding-agent)
 - Discord: [BET community](https://discord.gg/MF6fMFURyC)
 
 ## License
